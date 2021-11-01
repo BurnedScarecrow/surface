@@ -1,4 +1,8 @@
-# surface
+# Surface
+
+> The project allows you to plot bilinear surface based on 4 points
+
+### You can use it [here](https://burnedscarecrow.github.io/surface/) on GitHub Pages  
 
 ## Project setup
 ```
